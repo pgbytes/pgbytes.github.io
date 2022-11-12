@@ -1,3 +1,3 @@
 ## Panshul The Gupta
 
-This is my personal website... WIP
+This is my personal website...
